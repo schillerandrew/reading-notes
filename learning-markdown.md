@@ -20,4 +20,4 @@
 
 ## Lists
 - start each line with `- `, `* `, or `+ ` = unordered lists
-- 
+- nested lists = use the same synatx from ordered lists, and also line up columns
