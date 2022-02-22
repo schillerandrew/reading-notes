@@ -5,4 +5,4 @@ A growth mindset can be understood in a variety of ways -- one way that resonate
 1. Remind myself why it matters: things are always changing, be **dynamic**, not *static*!
 2. Growth isn't always "harder" -- a fixed mindset has its own downsides and costs
 3. When I get discouraged, remember my passion for coding and tech!
->Page created by [Andrew Schiller](https://github.com/schillerandrew)
+> Page created by [Andrew Schiller](https://github.com/schillerandrew)
