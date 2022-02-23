@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<head>
-<body>
-
 > # Learning Markdown
 
 ## Headings
@@ -36,7 +32,3 @@
 
 - footnotes = the initial reference (number) has this syntax: `[^NUMBER]`
     - the footnote itself (only shown at the bottom of the page) has `[^NUMBER]: ` for syntax
-  </head>
-  </body>
-</html>
-  
