@@ -32,3 +32,5 @@
 
 - footnotes = the initial reference (number) has this syntax: `[^NUMBER]`
     - the footnote itself (only shown at the bottom of the page) has `[^NUMBER]: ` for syntax
+
+> ### [Back to homepage](https://schillerandrew.github.io/reading-notes/)
