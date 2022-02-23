@@ -1,6 +1,6 @@
 > # Andrew Schiller
 
-### [Andrew's GitHub](https://github.com/schillerandrew)
+### ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
 
 ### Hi! I'm on my way to being a full-stack Javascript developer, and this is what I've been working on so far:
 
