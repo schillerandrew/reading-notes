@@ -39,7 +39,7 @@
         - any file or directory that starts with `.` is automatically hidden
 - `file PATH` = tells you type of file specified in PATH
 
-## Linus rules
+## Linux rules
 - everything is a file, even directories
 - files can have any extension or even no extension
 - case-sensitive
