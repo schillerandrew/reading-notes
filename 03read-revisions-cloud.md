@@ -7,12 +7,18 @@
 ## Git commands
 - `git clone URL` = clones a Git repository from the specified URL
 - `git clone URL DIRECTORY` = clones a Git repository to a specific directory (rather than creating a directory that takes on the repository's name)
+
 ---
+
 - `git status` = checks state of files
 - `git add FILENAME` = tracks and stages the specified file
 - `git add *` = tracks and stages all files in the current repository
 - `git commit -m "MESSAGE"` = commits all staged files and associates the commit with the specified message
 - `git push LOCAL-BRANCH REMOTE-REPOSITORY` = pushes changes from the specified local branch to the specified remote repository
+
 ---
+
 - `git stash` = temporarily removes and hides changes
 - `git stash apply` = retrieves the hidden changes
+
+> ### [Back to homepage](https://schillerandrew.github.io/reading-notes/)
