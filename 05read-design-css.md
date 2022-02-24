@@ -21,3 +21,5 @@ When multiple styles are specified for the same element, one of the styles will 
 2. external or internal (in the head section)
 3. browser default
 - If external and internal (and no inline style) are competing to style the same element(s), whichever style sheet is placed lower (in the head element?) will win out.
+
+> ### [Back to homepage](https://schillerandrew.github.io/reading-notes/)

@@ -38,3 +38,5 @@ let person = "John Doe",
 carName = "Volvo",
 price = 200;
 ```
+
+> ### [Back to homepage](https://schillerandrew.github.io/reading-notes/)

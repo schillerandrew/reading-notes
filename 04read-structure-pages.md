@@ -57,3 +57,5 @@ When coding, we have to keep in mind semantics -- the meaning of specific pieces
 - Semantic naming is a best practice that is used across all programming languages, to more easily understand what certain chunks of code accomplish
 
 - Examples of semantic elements are: `<header>`, `<footer>`, and `<article>`
+
+> ### [Back to homepage](https://schillerandrew.github.io/reading-notes/)
