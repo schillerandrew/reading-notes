@@ -12,19 +12,7 @@
 - external = one or more pages (entire website)
   - defined in a link element, ex: `<link rel="stylesheet" href="mystyle.css">`
 - internal = one page
-  - defined in a style element, ex:
- ```
- <style>
-body {
-  background-color: linen;
-}
-
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-</style>
-```
+  - defined in a style element, ex: `<style>body {background-color: linen;}</style>`
 - inline = one element
   - defined in the element it's styling
 
