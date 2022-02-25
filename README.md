@@ -15,3 +15,6 @@
 - Day 3
   - [Design web pages with CSS](05read-design-css)
   - [Dynamic web pages with JavaScript](06read-dynamic-javascript)
+- Day 4
+  - [Programming with JavaScript](07read-programming-js)
+  - [Operators and Loops](08read-operators-loops)
