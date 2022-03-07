@@ -4,9 +4,9 @@
 
 > ## Chapter 1: Structure
 ### HTML
--attributes tell us more about an element
--attributes contain two parts: its name, and its value
--the terms "element" and "tag" are interchangeable, though technically they are different things
+- attributes tell us more about an element
+- attributes contain two parts: its name, and its value
+- the terms "element" and "tag" are interchangeable, though technically they are different things
 
 > ## Chapter 8: Extra Markup
 - HTML comment = `<!-- -->`
