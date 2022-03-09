@@ -1,13 +1,14 @@
 > # Andrew Schiller
 
 ***
-### ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
+## ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
 
 ***
 
 ### Hi! I'm on my way to being a full-stack Javascript developer, and this is what I've been working on so far:
 
 > ### Code 201 Reading Notes
+
 - [Day 1 reading assignment](https://schillerandrew.github.io/reading-notes/class-01)
 - [Day 2 reading assignment](https://schillerandrew.github.io/reading-notes/class-02)
 - [Day 3 reading assignment](https://schillerandrew.github.io/reading-notes/class-03)
