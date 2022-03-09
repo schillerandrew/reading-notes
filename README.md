@@ -1,7 +1,9 @@
 > # Andrew Schiller
 
+- accountability partners: Dana Huffman, Jon Rumsey
+
 ***
-## ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
+> ## ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
 
 ***
 
