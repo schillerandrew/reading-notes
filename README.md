@@ -8,9 +8,9 @@
 ### Hi! I'm on my way to being a full-stack Javascript developer, and this is what I've been working on so far:
 
 > ### Code 201 Reading Notes
-- Day 1 reading assignment
-- Day 2 reading assignment
-- Day 3 reading assignment
+- [Day 1 reading assignment](https://schillerandrew.github.io/reading-notes/class-01)
+- [Day 2 reading assignment](https://schillerandrew.github.io/reading-notes/class-02)
+- [Day 3 reading assignment](https://schillerandrew.github.io/reading-notes/class-03)
 - Day 4 reading assignment
 - Day 5 reading assignment
 - Day 6 reading assignment
