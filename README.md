@@ -14,7 +14,7 @@
 - [Day 1 reading assignment](https://schillerandrew.github.io/reading-notes/class-01)
 - [Day 2 reading assignment](https://schillerandrew.github.io/reading-notes/class-02)
 - [Day 3 reading assignment](https://schillerandrew.github.io/reading-notes/class-03)
-- Day 4 reading assignment
+- [Day 4 reading assignment](https://schillerandrew.github.io/reading-notes/class-04)
 - Day 5 reading assignment
 - Day 6 reading assignment
 - Day 7 reading assignment
