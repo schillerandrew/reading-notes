@@ -4,7 +4,6 @@
 
 ***
 > ## ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
-
 ***
 
 ### Hi! I'm on my way to being a full-stack Javascript developer, and this is what I've been working on so far:
@@ -15,7 +14,7 @@
 - [Day 2 reading assignment](https://schillerandrew.github.io/reading-notes/class-02)
 - [Day 3 reading assignment](https://schillerandrew.github.io/reading-notes/class-03)
 - [Day 4 reading assignment](https://schillerandrew.github.io/reading-notes/class-04)
-- Day 5 reading assignment
+- [Day 5 reading assignment](https://schillerandrew.github.io/reading-notes/class-05)
 - Day 6 reading assignment
 - Day 7 reading assignment
 - Day 8 reading assignment
