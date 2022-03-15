@@ -15,10 +15,10 @@
 - [Day 3 reading assignment](https://schillerandrew.github.io/reading-notes/class-03)
 - [Day 4 reading assignment](https://schillerandrew.github.io/reading-notes/class-04)
 - [Day 5 reading assignment](https://schillerandrew.github.io/reading-notes/class-05)
-- Day 6 reading assignment
-- Day 7 reading assignment
-- Day 8 reading assignment
-- Day 9 reading assignment
+- [Day 6 reading assignment](https://schillerandrew.github.io/reading-notes/class-06)
+- [Day 7 reading assignment](https://schillerandrew.github.io/reading-notes/class-07)
+- [Day 8 reading assignment](https://schillerandrew.github.io/reading-notes/class-08)
+- [Day 9 reading assignment](https://schillerandrew.github.io/reading-notes/class-09)
 - Day 10 reading assignment
 - Day 11 reading assignment
 - Day 12 reading assignment

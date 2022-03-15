@@ -36,6 +36,8 @@
 
 - separate properties and methods with commas at the end, except for the final value
 - `this.` indicates that a property from within the object is being used
+- can add properties to an object using syntax `OBJECT-NAME.KEY-NAME =`...
+- can reference a key name that is a string or number using syntax `OBJECT-NAME[KEY-NAME]`, but normally `OBJECT-NAME.KEY-NAME` is used (dot notation instead of bracket notation)
 
 ### Chapter 5: Document Object Model
 
