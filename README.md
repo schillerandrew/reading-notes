@@ -19,7 +19,7 @@
 - [Day 7 reading assignment](https://schillerandrew.github.io/reading-notes/class-07)
 - [Day 8 reading assignment](https://schillerandrew.github.io/reading-notes/class-08)
 - [Day 9 reading assignment](https://schillerandrew.github.io/reading-notes/class-09)
-- Day 10 reading assignment
+- [Day 10 reading assignment](https://schillerandrew.github.io/reading-notes/class-10)
 - Day 11 reading assignment
 - Day 12 reading assignment
 - Day 13 reading assignment
