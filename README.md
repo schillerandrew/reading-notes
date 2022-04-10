@@ -1,14 +1,20 @@
-> # Andrew Schiller
+> # Reading Notes
 
-- accountability partners: Dana Huffman, Jon Rumsey
+### ⛰️ [Andrew Schiller's GitHub](https://github.com/schillerandrew) 🌲
 
-***
-> ## ⛰️[Andrew's GitHub](https://github.com/schillerandrew)🌲
-***
+### Hi! I'm on my way to being a full-stack JavaScript developer, and this is what I've been learning about so far:
 
-### Hi! I'm on my way to being a full-stack Javascript developer, and this is what I've been working on so far:
+&nbsp;
 
-> ### Code 201 Reading Notes
+> ## Code 401 - Advanced Software Development
+
+&nbsp;
+
+> ## Code 301 - Intermediate Software Development
+
+&nbsp;
+
+> ## Code 201 - Foundations of Software Development
 
 - [Day 1 reading assignment](https://schillerandrew.github.io/reading-notes/class-01)
 - [Day 2 reading assignment](https://schillerandrew.github.io/reading-notes/class-02)
@@ -26,7 +32,7 @@
 - Day 14 reading assignment
 - Day 15 reading assignment
 
-> ### Code 102 Reading Notes
+> ## Code 102 - Intro to Software Development
 
 - Day 1
   - [The Growth Mindset](https://schillerandrew.github.io/reading-notes/growth-mindset)
