@@ -12,22 +12,23 @@
   ```
   What types of things can you pass in the props?
   ```
+
 1. pretty much any kind of data that a different component will need -- kind of like arguments for a function
 
     ```
     What is the big difference between props and state?
     ```
+
 1. props are sent to different components and handled elsewhere, whereas state remains inside a component and is handled there
 
     ```
     When do we re-render our application?
     ```
+
 1. user interactios, user inputs, state changes
 
     ```
     What are some examples of things that we could store in state?
     ```
+
 1. anything that will change: counters/increments, user input, event handling
-
-
-  
