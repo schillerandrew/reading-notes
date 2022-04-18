@@ -1,5 +1,7 @@
 > # Node.js
 
+## Node
+
 1. What is node.js?
     - an event-based, non-blocking, asynchronous JavaScript runtime built on Chrome's V8 JavaScript engine
 
@@ -23,3 +25,19 @@
 
 1. What is node used for?
     - It's main use is for running JavaScript on a server -- it's advantages are allowing for large numbers of simultaneous connections, and being a server solution that allows web development to be full-stack JavaScript.
+
+## Pair programming
+
+1. What are the 6 reasons for pair programming?
+    - Greater efficiency
+    - Engaged collaboration
+    - Learning from fellow students
+    - Social skills
+    - Job interview readiness
+    - Work environment readiness
+
+1. In your experience, which of these reasons have you found most beneficial?
+    - social skills -- being able to talk about code and not just formulate it
+
+1. How does pair programming work?
+    - There are different ways but the common way is one person navigates (uses the mouse and keyboard to do coding, version control, etc) while one person drives (steers the activity and tells the navigator what to do)
