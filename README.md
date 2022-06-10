@@ -8,6 +8,8 @@
 
 > ## Code 401 - Advanced Software Development
 
+- [Prework - Software Engineering Readings](https://schillerandrew.github.io/reading-notes/prework-engineering)
+
 &nbsp;
 
 > ## Code 301 - Intermediate Software Development
