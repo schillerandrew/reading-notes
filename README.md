@@ -9,6 +9,7 @@
 > ## Code 401 - Advanced Software Development
 
 - [Prework - Software Engineering Readings](https://schillerandrew.github.io/reading-notes/prework-engineering)
+- [Prework - Introduction to SQL](https://schillerandrew.github.io/reading-notes/prework-sql)
 
 &nbsp;
 
