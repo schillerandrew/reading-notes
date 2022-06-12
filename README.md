@@ -10,6 +10,7 @@
 
 - [Prework - Software Engineering Readings](https://schillerandrew.github.io/reading-notes/prework-engineering)
 - [Prework - Introduction to SQL](https://schillerandrew.github.io/reading-notes/prework-sql/prework-sql)
+- [Prework - The Command Line](https://schillerandrew.github.io/reading-notes/prework-sql/prework-terminal)
 
 &nbsp;
 
