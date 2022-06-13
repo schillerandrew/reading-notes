@@ -8,6 +8,10 @@
 
 > ## Code 401 - Advanced Software Development
 
+- [Day 1 - Node Ecosystem](https://schillerandrew.github.io/reading-notes/read01)
+
+&nbsp;
+
 - [Prework - Software Engineering Readings](https://schillerandrew.github.io/reading-notes/prework-engineering)
 - [Prework - Introduction to SQL](https://schillerandrew.github.io/reading-notes/prework-sql/prework-sql)
 - [Prework - The Command Line](https://schillerandrew.github.io/reading-notes/prework-terminal)
