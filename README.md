@@ -16,8 +16,7 @@
 - [Day 2 - Express, NPM, TDD, CI/CD](https://schillerandrew.github.io/reading-notes/read02)
 - [Day 3 - Express REST API](https://schillerandrew.github.io/reading-notes/read03)
 - [Day 4 - Data Modeling](https://schillerandrew.github.io/reading-notes/read04)
-- [Day 5 - ]()
-- [Day 6 - ]()
+- [Day 6 - Authentication](https://schillerandrew.github.io/reading-notes/read06)
 - [Day 7 - ]()
 - [Day 8 - ]()
 
