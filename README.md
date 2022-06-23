@@ -19,6 +19,7 @@
 - [Day 6 - Authentication](https://schillerandrew.github.io/reading-notes/read06)
 - [Day 7 - ]()
 - [Day 8 - ]()
+- [Day 6 - Authorization/Authentication](https://schillerandrew.github.io/reading-notes/read09)
 
 > ## Code 301 - Intermediate Software Development
 
