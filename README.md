@@ -17,7 +17,7 @@
 - [Day 3 - Express REST API](https://schillerandrew.github.io/reading-notes/read03)
 - [Day 4 - Data Modeling](https://schillerandrew.github.io/reading-notes/read04)
 - [Day 6 - Authentication](https://schillerandrew.github.io/reading-notes/read06)
-- [Day 7 - ]()
+- [Day 7 - Bearer Authorization](https://schillerandrew.github.io/reading-notes/read07)
 - [Day 8 - ]()
 - [Day 6 - Authorization/Authentication](https://schillerandrew.github.io/reading-notes/read09)
 
