@@ -19,7 +19,8 @@
 - [Day 6 - Authentication](https://schillerandrew.github.io/reading-notes/read06)
 - [Day 7 - Bearer Authorization](https://schillerandrew.github.io/reading-notes/read07)
 - [Day 8 - Access Control (ACL)](https://schillerandrew.github.io/reading-notes/read08)
-- [Day 6 - Authorization/Authentication](https://schillerandrew.github.io/reading-notes/read09)
+- [Day 9 - Authorization/Authentication](https://schillerandrew.github.io/reading-notes/read09)
+- [Day 11 - Event Driven Applications](https://schillerandrew.github.io/reading-notes/read11)
 
 > ## Code 301 - Intermediate Software Development
 
