@@ -21,6 +21,7 @@
 - [Day 8 - Access Control (ACL)](https://schillerandrew.github.io/reading-notes/read08)
 - [Day 9 - Authorization/Authentication](https://schillerandrew.github.io/reading-notes/read09)
 - [Day 11 - Event Driven Applications](https://schillerandrew.github.io/reading-notes/read11)
+- [Day 12 - Socket.io](https://schillerandrew.github.io/reading-notes/read12)
 
 > ## Code 301 - Intermediate Software Development
 
