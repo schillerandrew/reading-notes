@@ -23,6 +23,7 @@
 - [Day 11 - Event Driven Applications](https://schillerandrew.github.io/reading-notes/read11)
 - [Day 12 - Socket.io](https://schillerandrew.github.io/reading-notes/read12)
 - [Day 13 - Message Queues](https://schillerandrew.github.io/reading-notes/read13)
+- [Day 16 - AWS: Cloud Servers](https://schillerandrew.github.io/reading-notes/read16)
 
 > ## Code 301 - Intermediate Software Development
 
