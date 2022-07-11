@@ -25,6 +25,8 @@
 - [Day 13 - Message Queues](https://schillerandrew.github.io/reading-notes/read13)
 - [Day 16 - AWS: Cloud Servers](https://schillerandrew.github.io/reading-notes/read16)
 - [Day 17 - AWS: S3 and Lambda](https://schillerandrew.github.io/reading-notes/read17)
+- [Day 18 - AWS: API, Dynamo and Lambda](https://schillerandrew.github.io/reading-notes/read18)
+- [Day 19 - AWS: Events](https://schillerandrew.github.io/reading-notes/read19)
 
 > ## Code 301 - Intermediate Software Development
 
