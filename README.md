@@ -27,6 +27,7 @@
 - [Day 17 - AWS: S3 and Lambda](https://schillerandrew.github.io/reading-notes/read17)
 - [Day 18 - AWS: API, Dynamo and Lambda](https://schillerandrew.github.io/reading-notes/read18)
 - [Day 19 - AWS: Events](https://schillerandrew.github.io/reading-notes/read19)
+- [Day 26 - Component Based UI](https://schillerandrew.github.io/reading-notes/read26)
 
 > ## Code 301 - Intermediate Software Development
 
