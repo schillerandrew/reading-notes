@@ -30,6 +30,7 @@
 - [Day 26 - Component Based UI](https://schillerandrew.github.io/reading-notes/read26)
 - [Day 27 - `useState()` Hook](https://schillerandrew.github.io/reading-notes/read27)
 - [Day 28 - `useEffect()` Hook](https://schillerandrew.github.io/reading-notes/read28)
+- [Day 29 - Advanced State with Reducers](https://schillerandrew.github.io/reading-notes/read29)
 
 > ## Code 301 - Intermediate Software Development
 
