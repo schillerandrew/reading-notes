@@ -28,6 +28,7 @@
 - [Day 18 - AWS: API, Dynamo and Lambda](https://schillerandrew.github.io/reading-notes/read18)
 - [Day 19 - AWS: Events](https://schillerandrew.github.io/reading-notes/read19)
 - [Day 26 - Component Based UI](https://schillerandrew.github.io/reading-notes/read26)
+- [Day 27 - `useState()` Hook](https://schillerandrew.github.io/reading-notes/read27)
 
 > ## Code 301 - Intermediate Software Development
 
