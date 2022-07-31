@@ -31,6 +31,10 @@
 - [Day 27 - `useState()` Hook](https://schillerandrew.github.io/reading-notes/read27)
 - [Day 28 - `useEffect()` Hook](https://schillerandrew.github.io/reading-notes/read28)
 - [Day 29 - Advanced State with Reducers](https://schillerandrew.github.io/reading-notes/read29)
+- [Day 31 - Context API](https://schillerandrew.github.io/reading-notes/read31)
+- [Day 32 - Context API](https://schillerandrew.github.io/reading-notes/read32)
+- [Day 33 - `<Login />` and `<Auth />`](https://schillerandrew.github.io/reading-notes/read33)
+- [Day 34 - API Integration](https://schillerandrew.github.io/reading-notes/read34)
 
 > ## Code 301 - Intermediate Software Development
 
